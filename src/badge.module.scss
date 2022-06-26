@@ -1,0 +1,35 @@
+.badge {
+    border-radius: 6px;
+    color: #fff;
+    padding: 5px 15px;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 600;
+    width: 140px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.new {
+    background-color: #ba4946;
+}
+
+.assigned {
+    background-color: #c8921b;
+}
+
+.completed {
+    background-color: #498049;
+}
+
+.started {
+    background-color: #2e77b3;
+}
+
+.declined {
+    background-color: #202020;
+}
+
+.unknown {
+    background-color: #4c4a4a;
+}
